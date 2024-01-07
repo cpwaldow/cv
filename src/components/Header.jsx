@@ -19,13 +19,21 @@ const Header = () => {
           <BsGlobe /> São Paulo, Brasil
         </a>
         <nav className='header__nav'>
-          <a href='mailto:cpwaldow@gmail.com'>
+          <a href='mailto:cpwaldow@gmail.com' aria-label='email'>
             <MdOutlineEmail />
           </a>
-          <a href='https://github.com/cpwaldow' target='_blank'>
+          <a
+            href='https://github.com/cpwaldow'
+            target='_blank'
+            aria-label='github'
+          >
             <BsGithub />
           </a>
-          <a href='https://www.linkedin.com/in/carlos-waldow/' target='_blank'>
+          <a
+            href='https://www.linkedin.com/in/carlos-waldow/'
+            target='_blank'
+            aria-label='linkedin'
+          >
             <BsLinkedin />
           </a>
         </nav>

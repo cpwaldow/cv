@@ -26,7 +26,7 @@
 .header--location {
   display: block;
   margin-bottom: 1rem;
-  color: var(--main-grey);
+  color: rgb(88, 88, 88);
 }
 
 .header--location:hover {
