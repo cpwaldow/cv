@@ -29,6 +29,11 @@
   color: var(--main-grey);
 }
 
+.header--location:hover {
+  color: rgb(88, 88, 88);
+  text-decoration: underline;
+}
+
 .header__nav {
   display: flex;
 }
@@ -42,4 +47,9 @@
   border: 1px solid var(--main-grey);
   border-radius: 4px;
   height: 24px;
+}
+
+.header__nav > a:hover {
+  background-color: rgb(238, 238, 238);
+  color: rgb(88, 88, 88);
 }
