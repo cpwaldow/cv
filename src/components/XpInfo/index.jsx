@@ -6,7 +6,6 @@ const XpInfo = ({ info }) => {
   return (
     <section className='xp-info__container'>
       <div className='xp-info__company-date xp-info--small-margin-bt'>
-        {/* <h3>{company}</h3> */}
         <a href={url} target='_blank' className='xp-info__link'>
           <BsLink45Deg /> {company}
         </a>
