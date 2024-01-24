@@ -11,7 +11,7 @@ const XpInfo = ({ info }) => {
         </a>
         <p>{date}</p>
       </div>
-      <h4 className='xp-info--small-margin-bt xp-info__job-title'>{title}</h4>
+      <h3 className='xp-info--small-margin-bt xp-info__job-title'>{title}</h3>
       <p className='xp-info__job-description'>{description}</p>
     </section>
   );
