@@ -1,5 +1,5 @@
 import SubTitle from '../SubTitle';
-import './About.css';
+import './about.css';
 
 const About = () => {
   return (
