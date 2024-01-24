@@ -8,6 +8,12 @@
   justify-content: space-between;
 }
 
+.xp-info__link {
+  font-weight: bolder;
+  font-size: 1.3rem;
+  color: black;
+}
+
 .xp-info--small-margin-bt {
   margin-bottom: 0.4rem;
 }

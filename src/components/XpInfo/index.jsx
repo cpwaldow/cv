@@ -1,11 +1,15 @@
+import { BsLink45Deg } from 'react-icons/bs';
 import './xp-info.css';
 
 const XpInfo = ({ info }) => {
-  const { company, title, date, description } = info;
+  const { company, title, date, description, url } = info;
   return (
     <section className='xp-info__container'>
       <div className='xp-info__company-date xp-info--small-margin-bt'>
-        <h3>{company}</h3>
+        {/* <h3>{company}</h3> */}
+        <a href={url} target='_blank' className='xp-info__link'>
+          <BsLink45Deg /> {company}
+        </a>
         <p>{date}</p>
       </div>
       <h4 className='xp-info--small-margin-bt xp-info__job-title'>{title}</h4>
