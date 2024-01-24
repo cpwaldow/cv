@@ -1,0 +1,21 @@
+.xp-info__container {
+  margin-bottom: 1rem;
+}
+
+.xp-info__company-date {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.xp-info--small-margin-bt {
+  margin-bottom: 0.4rem;
+}
+
+.xp-info__job-title {
+  color: #434343;
+}
+
+.xp-info__job-description {
+  color: #585858;
+}

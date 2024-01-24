@@ -1,6 +1,7 @@
 import './App.css';
 import About from './components/About';
 import Header from './components/Header';
+import WorkExperience from './components/WorkExperience';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <main className='container'>
         <About />
+        <WorkExperience />
       </main>
     </>
   );
