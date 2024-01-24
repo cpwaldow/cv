@@ -1,6 +1,6 @@
 import { BsGlobe, BsGithub, BsLinkedin } from 'react-icons/bs';
 import { MdOutlineEmail } from 'react-icons/md';
-import './Header.css';
+import './header.css';
 
 const Header = () => {
   return (
