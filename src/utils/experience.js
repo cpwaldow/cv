@@ -12,7 +12,7 @@ export const experiences = [
     title: 'Desenvolvedor Front-end',
     date: '2020-2021',
     description:
-      'Desenvolvi minhas competências em desenvolvimento de software ao projetar novas funcionalidades e realizar manutenção de códigos em frameworks como AngularJS, ReactJS e VueJS. Também adquiri conhecimento em desenvolvimento Ágil, o que me permitiu trabalhar de forma mais eficiente e colaborativa em projetos de equipe.',
+      'Desenvolvi minhas competências em desenvolvimento de software ao projetar novas funcionalidades e realizar manutenção de códigos em frameworks como Angular, ReactJS e VueJS. Também adquiri conhecimento em desenvolvimento Ágil, o que me permitiu trabalhar de forma mais eficiente e colaborativa em projetos de equipe.',
     url: 'https://www.reclameaqui.com.br/',
   },
   {
