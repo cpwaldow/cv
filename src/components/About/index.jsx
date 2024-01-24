@@ -1,9 +1,10 @@
+import SubTitle from '../SubTitle';
 import './About.css';
 
 const About = () => {
   return (
     <section className='about__container'>
-      <h2 className='about--title'>Sobre</h2>
+      <SubTitle subtitle='Sobre' />
       <p className='about--description'>
         Analista de Desenvolvimento de Sistemas na Trybe, com 2 anos de
         experiência, focado em automação e manutenção de projetos. Especializado
