@@ -12,3 +12,7 @@
   justify-content: space-between;
   margin-bottom: 0.4rem;
 }
+
+h3 {
+  max-width: 80%;
+}
