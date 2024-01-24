@@ -1,0 +1,14 @@
+.education__container {
+  margin-bottom: 40px;
+}
+
+.education__infos {
+  margin-bottom: 1rem;
+}
+
+.education__university-date {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.4rem;
+}
