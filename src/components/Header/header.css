@@ -53,3 +53,15 @@
   background-color: rgb(238, 238, 238);
   color: rgb(88, 88, 88);
 }
+
+@media only screen and (max-width: 600px) {
+  .header--container {
+    max-width: 85%;
+    flex-direction: column-reverse;
+    align-items: start;
+  }
+
+  .header__img {
+    margin-bottom: 1rem;
+  }
+}
