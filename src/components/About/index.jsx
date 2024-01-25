@@ -6,14 +6,10 @@ const About = () => {
     <section className='about__container'>
       <SubTitle subtitle='Sobre' />
       <p className='about--description'>
-        Analista de Desenvolvimento de Sistemas na Trybe, com 2 anos de
-        experiência, focado em automação e manutenção de projetos. Especializado
-        em HTML, CSS, JavaScript, React, Typescript e ferramentas como GitHub
-        Actions, ESLint e Cypress. Desenvolvedor Front-end na Reclame Aqui,
-        destacando-se em React, Vue e Angular. Experiência em SEO, Google
-        TagManager e forte habilidade em testes (funcionais, unidade,
-        integração, usabilidade, caixa preta, regressão). Contribuí como Quality
-        Assurance no ReclameAQUI, liderando testes e automação.
+        Desenvolvedor Front-end, com 4 anos de experiência, focado em automação
+        e manutenção de projetos. Conhecimento em HTML, CSS, JavaScript, React,
+        TypeScript e ferramentas como Github Actions, ESLint, Cypress, Jest e
+        React Testing Library. Tenho experiência em SEO e Google Tag Manager.
       </p>
     </section>
   );
