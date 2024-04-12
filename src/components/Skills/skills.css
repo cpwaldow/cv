@@ -1,0 +1,16 @@
+.skills__info--container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.skills__info--container > p {
+  padding: 8px 10px;
+  background-color: var(--main-grey);
+  color: rgb(255, 255, 255);
+  border-radius: 6px;
+}
+
+.skills__info--container > p:hover {
+  background-color: rgb(90, 90, 90);
+}
